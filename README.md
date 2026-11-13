@@ -70,13 +70,16 @@ Experience MOODIFY here:
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
-![MOODIFY Home Page](screenshots/home.png)
+
+![MOODIFY Home Page](./home.png)
 
 ### 🎧 Music Player
-![MOODIFY Music Player](screenshots/player.png)
+
+![MOODIFY Music Player](./player.png)
 
 ### 📚 Music Library
-![MOODIFY Music Library](screenshots/library.png)
+
+![MOODIFY Music Library](./library.png)
 
 
 
