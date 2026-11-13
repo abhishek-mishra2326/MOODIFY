@@ -69,17 +69,16 @@ Experience MOODIFY here:
 
 ## 📸 Application Screenshots
 
-Screenshots will be added here.
+### 🏠 Home Page
+![MOODIFY Home Page](screenshots/home.png)
 
-<!--
-Create a screenshots folder in the root directory
-and add your application screenshots.
+### 🎧 Music Player
+![MOODIFY Music Player](screenshots/player.png)
 
-Example:
+### 📚 Music Library
+![MOODIFY Music Library](screenshots/library.png)
 
-![MOODIFY Home](screenshots/home.png)
-![MOODIFY Player](screenshots/player.png)
--->
+
 
 ## 💻 Installation & Setup
 
